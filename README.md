@@ -2,7 +2,7 @@
 
 Exploring and visualizing London Tube Stations using NetworkX Graphs
 
-Finding Shortest path between any two stations by using the following Algorithms:
+Finding Shortest path between any two stations using the following Algorithms:
 
 1. Depth First Search (& reverse implementation)
 2. Breath First Search (& reverse implementation)
